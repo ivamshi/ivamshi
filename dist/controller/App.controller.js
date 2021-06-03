@@ -1,0 +1,1 @@
+sap.ui.define(["dxc/tech/gsap/vamshi/controller/BaseController"],function(e){"use strict";return e.extend("dxc.tech.gsap.vamshi.controller.App",{onInit:function(){console.log("Hey folks!! the App Controller is ready Now")}})});
